@@ -1,0 +1,6 @@
+Its Good to hear that
+Its nice to meet you
+What do you do?
+I am Software Engineer
+I am adding these list of lines using "writeline()" Function
+I am a Data Analyst by Profession
